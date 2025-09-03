@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KC
 - 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML, CSS and Sass.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
